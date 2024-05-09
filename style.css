@@ -25,6 +25,8 @@ header{
     height: 40px;
     padding: 10px;
     margin: 5px;
+    color: aliceblue;
+    text-align: center;
     
 }
 .conteudo1{
@@ -68,6 +70,8 @@ footer{
     height: 70px;
     padding: 10px;
     margin: 5px;
+    color: aliceblue;
+    text-align: center;
 
 }
 .duas_colunas_baixo{
